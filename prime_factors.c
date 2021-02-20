@@ -8,7 +8,7 @@ int main()
 
     printf("Prime factors of %d are:\n", num);
 
-    for (i = 1; i <= num; ++i)
+    for (i = 1; i <= num; i++)
     {
         p = 0;
         if (num % i == 0)
