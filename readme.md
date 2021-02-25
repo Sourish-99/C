@@ -77,3 +77,8 @@
 ## Recursion
 
 * [Program to find the factorial of a given number using recursion](recursion/factorial.c)
+
+## Matrix
+
+* [Program to find the sum of two matrices](matrices/matrix_sum.c)
+* [Program to find the multiplication of two matrices](matrices/matrix_multiply.c)
