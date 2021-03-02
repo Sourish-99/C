@@ -82,3 +82,7 @@
 
 * [Program to find the sum of two matrices](matrices/matrix_sum.c)
 * [Program to find the multiplication of two matrices](matrices/matrix_multiply.c)
+
+## Pointer
+
+* [Program to swap values without using third variable using (call | Pass by reference / Call | Pass by address)](pointer/swapping_func.c)
